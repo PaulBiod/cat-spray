@@ -1,4 +1,4 @@
-# cats-pray
+# cat-spray
 An air spray that detects motion and activate the spray when the cat is around
 
 A long time ago, I used to use some ready made cat air sprays. Recently, I needed one of these, but I realize it was far too expensive (about 70 eur + 20 eur each refill !). Not only it was expensive (a refill lasts about 80 sprays), but also it didn't work perfectly.
