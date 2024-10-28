@@ -34,7 +34,8 @@ Just plug the spray in (it's not battery powered), the screen will automatically
 After these 10 seconds, the screen will show a red spray, and the led will go red.
 Now, if the cat sprayer detects motion, it will make a long beep and the activate the servo to spray.
 
-Of course, you can play with it with home assistant automations, for example, you can programatically activate/deactivate it with triggers (i.e. activate it when you are in bed, deactivate it when you wake up, and much more things...). You can have alexa make some TTS when it detects sprays, etc...
+Of course, you can play with it with home assistant automations, for example, you can programa[Uploading cat-spray.yml…]()
+tically activate/deactivate it with triggers (i.e. activate it when you are in bed, deactivate it when you wake up, and much more things...). You can have alexa make some TTS when it detects sprays, etc...
 
 As I don't have many time, I won't show wiring diagrams, but if you look at the code, you can easily see how everything is wired, and just ask me if you have any questions.
 
