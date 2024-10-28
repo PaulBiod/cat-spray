@@ -16,6 +16,7 @@ A PIR sensor (AM312) ( 2 eur)
 A mmwave sensor LD2410 (4 eur)
 A mini  4 pins cathode RGB led (less than 0.5 eur)
 A piezzo buzzer (passiv)
+An esp32 ( I used an S3 but any esp32 will be ok)
 
 Ok, you can say it may be too much for just a spray cat, but it'd be too easy just to make a spray, a pir and a servo.
 
